@@ -1,0 +1,42 @@
+# GODIEGO – トライ・トゥ・ウェイク・アップ・トゥ・ア・モーニング
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You're standing there so lonely
+Wish that I could help you out
+You used to be so lovely
+But I know you are too proud
+I know inside you're empty
+And spring won't come again
+You just don't see reality
+To you it's just a pain
+＜♪＞
+Try to wake up to a morning
+Try to find a new beginning
+Try to find what you've
+been missing
+On the past just stop depending
+Try to wake up to a morning
+Try to find a new beginning
+Try to open up your eyes
+Stop telling yourself lies
+Why keep on hanging to the past
+Can't we make a fresh new start
+Beauty won't last forever
+Unless it grows in your heart
+＜E-Piano Solo＞
+Try to wake up to a morning
+Try to find a new beginning
+Try to find what you've
+been missing
+On the past just stop depending
+Try to wake up to a morning
+Try to find a new beginning
+Try to open up your eyes
+Stop telling yourself lies
+Why keep on hanging to the past
+Can't we make a fresh new start
+Beauty won't last forever
+Unless it grows in your heart
+```
