@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トライ・トゥ・ウェイク・アップ・トゥ・ア・モーニング",
+  "base_artist": "GODIEGO",
+  "createdAt": "2026-01-04T07:35:08.037960Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TRY TO WAKE UP TO A MORNING",
+      "artist": "GODIEGO",
+      "has_synced": false,
+      "path": "select/pl_01_TRY_TO_WAKE_UP_TO_A_MORNING_GODIEGO.txt"
+    }
+  ]
+}
